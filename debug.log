@@ -1,0 +1,8 @@
+2025-06-04T21:53:36.193080+0530 INFO Starting the 9GAG downloader...
+2025-06-04T21:53:36.193513+0530 DEBUG Fetching URL: https://9gag.com/trending
+2025-06-04T21:53:36.395272+0530 ERROR Failed to fetch https://9gag.com/trending: 403 Client Error: Forbidden for url: https://9gag.com/trending
+2025-06-04T21:53:36.395918+0530 INFO Total media to download: 0
+2025-06-04T21:58:32.644941+0530 INFO Starting the 9GAG downloader...
+2025-06-04T21:58:32.645571+0530 DEBUG Fetching URL: https://9gag.com
+2025-06-04T21:58:32.811994+0530 DEBUG Found 0 media items.
+2025-06-04T21:58:32.817730+0530 INFO Total media to download: 0
